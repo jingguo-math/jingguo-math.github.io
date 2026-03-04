@@ -23,6 +23,44 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
+# Navigation bar links
+# -----------------------------------------------------------------------------
+# To hide specific pages, comment out the corresponding lines with '#'
+
+navbar_links:
+  - title: about
+    url: /
+    icon: fas fa-home
+
+  # - title: blog
+  #   url: /blog/
+  #   icon: fas fa-pencil-alt
+
+  - title: publications
+    url: /publications/
+    icon: ai ai-acm
+
+  # - title: projects
+  #   url: /projects/
+  #   icon: fas fa-code
+
+  # - title: cv
+  #   url: /cv/
+  #   icon: ai ai-google-scholar
+
+  # - title: news
+  #   url: /news/
+  #   icon: fas fa-newspaper
+
+  # - title: teaching
+  #   url: /teaching/
+  #   icon: fas fa-chalkboard-teacher
+
+  # - title: collections
+  #   url: /collections/
+  #   icon: fas fa-folder
+
+# -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
 
