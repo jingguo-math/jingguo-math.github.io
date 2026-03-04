@@ -695,3 +695,6 @@ jsonresume:
   - languages
   - interests
   - references
+  # 强制关闭不需要的页面
+people_page:
+  enabled: false
