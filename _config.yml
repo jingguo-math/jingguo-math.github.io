@@ -91,8 +91,8 @@ external_services:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
+search_enabled: false
+socials_in_search: false
 posts_in_search: false # 关闭博客搜索，因为你不用博客
 bib_search: true
 
