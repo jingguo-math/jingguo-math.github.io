@@ -6,6 +6,7 @@ description: Edit the `_data/repositories.yml` and change the `github_users` and
 nav: true
 nav_order: 4
 published: false 
+published: false 
 ---
 
 {% if site.data.repositories.github_users %}
