@@ -8,9 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>数学与统计学院</p>
-    <p>广东工业大学</p>
 
 selected_papers: true
 social: true
@@ -26,31 +23,27 @@ latest_posts:
   limit: 3
 ---
 
-## 个人简介
+## 郭静
+**青年百人教师**
 
-我是广东工业大学数学与统计学院的助理教授。我的研究兴趣集中在数值分析和科学计算的交叉领域，致力于为具有挑战性的数学问题开发高效算法。
+### 个人简介
+郭静博士现任广东工业大学数学与统计学院青年百人教师。她的主要研究兴趣包括拓扑优化、卷积求积的变步长逼近方法、鞍点问题等。
 
-## 研究方向
+郭静博士于2023年在湖南师范大学获得数学博士学位，在攻读博士学位期间，她曾于2021年11月-2022年11月赴西班牙马拉加大学进行博士联合培养。2023年8月至2025年5月在香港中文大学（深圳）从事博士后研究工作。
 
-- **拓扑优化** - 给定区域内最优材料布局的设计
-- **鞍点问题** - 约束优化问题的数值方法
-- **卷积求积的变步长逼近** - 演化方程的时间步进方法
-- **拉普拉斯变换数值反演** - 反问题的稳定精确算法
+### 部分学术论文
+- **Efficient and stable diffusion generated methods for ground state computation in Bose–Einstein condensates**  
+  Jing Guo, Yongyong Cai, and Dong Wang  
+  *Journal of Scientific Computing*, 2026
 
-## 学术经历
+- **Computing optimal partition problems via Lagrange multiplier approach**  
+  Qing Cheng, Jing Guo, and Dong Wang  
+  *Journal of Scientific Computing*, 2025
 
-- **助理教授** — 广东工业大学 (2025 - 至今)
-- **研究助理** — 澳门大学 (2025年7月 - 2025年11月)  
-  *导师：罗力教授*
-- **博士后研究员** — 香港中文大学（深圳）(2023年8月 - 2025年5月)  
-  *导师：王东教授*
-- **访问学生** — 马拉加大学，西班牙 (2021年11月 - 2022年11月)  
-  *导师：Maria Lopez-Fernandez 教授*
+- **Generalized convolution quadrature for non-smooth sectorial problems**  
+  Jing Guo and Maria Lopez-Fernandez  
+  *Calcolo*, 2025
 
-## 教育背景
-
-- **理学博士 (数学)** — 湖南师范大学 (2020 - 2023)  
-  *导师：潘青教授*
-- **理学硕士 (计算数学)** — 湖南师范大学 (2017 - 2020)  
-  *导师：徐大教授*
-- **理学学士 (应用数学)** — 湖南第一师范学院 (2012 - 2016)
+- **Runge–Kutta generalized convolution quadrature for sectorial problems**  
+  Jing Guo and Maria Lopez-Fernandez  
+  *arXiv preprint*, 2025
