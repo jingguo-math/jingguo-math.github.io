@@ -135,6 +135,21 @@
               </button>
             </li>
           {% endif %}
+          
+          <!-- Language Switcher -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="languageDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              🌐 语言
+            </a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="languageDropdown">
+              <a class="dropdown-item" href="{{ '/' | relative_url }}">
+                🇬🇧 English
+              </a>
+              <a class="dropdown-item" href="{{ '/cn/' | relative_url }}">
+                🇨🇳 中文
+              </a>
+            </div>
+          </li>
         </ul>
       </div>
     </div>
