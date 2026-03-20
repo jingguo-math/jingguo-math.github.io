@@ -118,14 +118,25 @@
             {% endif %}
           {% endfor %}
           
-          <!-- 只保留 Google Scholar 图标 -->
+          <!-- Google Scholar Icon -->
           <li class="nav-item">
-            <a class="nav-link" href="https://scholar.google.com/citations?user=iIPhC3wAAAAJ&hl=en" target="_blank" title="Google Scholar">
+            <a class="nav-link" href="https://scholar.google.com/citations?user=你的Google Scholar ID" target="_blank" title="Google Scholar">
               <i class="ai ai-google-scholar"></i>
             </a>
           </li>
           
-          <!-- 可选：保留语言切换（如果需要） -->
+          <!-- Dark Mode Toggle -->
+          {% if site.enable_darkmode %}
+            <!-- Toogle theme mode -->
+            <li class="toggle-container">
+              <button id="light-toggle" title="Change theme">
+                <i class="fa-half-sun-moon" id="light-toggle-system"></i>
+                <i class="fa-solid fa-moon" id="light-toggle-dark"></i>
+                <i class="fa-solid fa-sun" id="light-toggle-light"></i>
+              </button>
+            </li>
+          {% endif %}
+          
           <!-- Language Switcher -->
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="languageDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
