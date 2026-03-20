@@ -31,7 +31,7 @@ latest_posts:
 
 郭静博士于2023年在湖南师范大学获得数学博士学位，在攻读博士学位期间，她曾于2021年11月-2022年11月赴西班牙马拉加大学进行博士联合培养。2023年至2025年在香港中文大学（深圳）从事博士后研究工作。
 
-### 代表论文
+### 部分相关论文
 - **Efficient and stable diffusion generated methods for ground state computation in Bose–Einstein condensates**  
   Jing Guo, Yongyong Cai, and Dong Wang  
   *Journal of Scientific Computing*, 2026
