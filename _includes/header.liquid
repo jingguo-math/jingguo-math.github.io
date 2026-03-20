@@ -117,25 +117,15 @@
               {% endif %}
             {% endif %}
           {% endfor %}
-          {% if site.search_enabled %}
-            <!-- Search -->
-            <li class="nav-item">
-              <button id="search-toggle" title="Search" onclick="openSearchModal()">
-                <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span>
-              </button>
-            </li>
-          {% endif %}
-          {% if site.enable_darkmode %}
-            <!-- Toogle theme mode -->
-            <li class="toggle-container">
-              <button id="light-toggle" title="Change theme">
-                <i class="fa-half-sun-moon" id="light-toggle-system"></i>
-                <i class="fa-solid fa-moon" id="light-toggle-dark"></i>
-                <i class="fa-solid fa-sun" id="light-toggle-light"></i>
-              </button>
-            </li>
-          {% endif %}
           
+          <!-- 只保留 Google Scholar 图标 -->
+          <li class="nav-item">
+            <a class="nav-link" href="https://scholar.google.com/citations?user=你的Google Scholar ID" target="_blank" title="Google Scholar">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+          
+          <!-- 可选：保留语言切换（如果需要） -->
           <!-- Language Switcher -->
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="languageDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
