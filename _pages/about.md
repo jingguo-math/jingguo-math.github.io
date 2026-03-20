@@ -14,7 +14,7 @@ profile:
     <p>Guangzhou, Guangdong 510006, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # 暂时关闭，等你有新闻时再开启
