@@ -431,7 +431,7 @@ enable_masonry: false # 关闭 masonry，因为你不展示 projects
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: true # 开启导航栏社交图标
+enable_navbar_social: false # 开启导航栏社交图标
 enable_project_categories: false # 关闭项目分类
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
