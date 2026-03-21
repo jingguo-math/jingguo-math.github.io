@@ -40,20 +40,21 @@ My research lies at the intersection of numerical analysis and scientific comput
 - **Saddle point problems** 
 - **Numerical inversion of Laplace transform** 
 
-## Academic Positions
+## Academic Position
 
 - **Assistant Professor** — Guangdong University of Technology (2025 - Present)
 - **Research Assistant** — University of Macau (July 2025 - November 2025)  
   *Mentor: Prof. Li Luo*
 - **Postdoctoral Researcher** — The Chinese University of Hong Kong, Shenzhen (Aug 2023 - May 2025)  
-  *Mentor: Prof. Dong Wang*
-- **Visiting Student** — University of Malaga, Spain (Nov 2021 - Nov 2022)  
-  *Advisor: Prof. Maria Lopez-Fernandez*
+  *Mentor: Prof. Dong Wang*, Prof. Jingrun Chen
+
 
 ## Education
 
 - **Ph.D. in Mathematics** — Hunan Normal University (2020 - 2023)  
   *Advisor: Prof. Qing Pan*
+  - **CSC-sponsored Joint Ph.D. Student** — University of Malaga, Spain (Nov 2021 - Nov 2022)  
+    *Co-advisor: Prof. Maria Lopez-Fernandez*
 - **M.S. in Computational Mathematics** — Hunan Normal University (2017 - 2020)  
   *Advisor: Prof. Da Xu*
 - **B.S. in Applied Mathematics** — Hunan First Normal University (2012 - 2016)
