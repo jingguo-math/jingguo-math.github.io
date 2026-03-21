@@ -44,9 +44,9 @@ My research lies at the intersection of numerical analysis and scientific comput
 
 - **Assistant Professor** — Guangdong University of Technology (2025 - Present)
 - **Research Assistant** — University of Macau (July 2025 - November 2025)  
-  *Mentor: Prof. Li Luo*
+  *Supervisor: Prof. Li Luo*
 - **Postdoctoral Researcher** — The Chinese University of Hong Kong, Shenzhen (Aug 2023 - May 2025)  
-  *Mentor: Prof. Dong Wang*, Prof. Jingrun Chen
+  *Supervisor:  Prof. Dong Wang,  Prof. Jingrun Chen* 
 
 
 ## Education
