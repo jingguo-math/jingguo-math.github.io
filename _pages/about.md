@@ -36,7 +36,7 @@ My research lies at the intersection of numerical analysis and scientific comput
 ## Research Interests
 
 - **Constrained optimization**
-- - **Variable step approximation of convolution quadrature** 
+- **Variable step approximation of convolution quadrature** 
 - **Saddle point problems** 
 - **Numerical inversion of Laplace transform** 
 
