@@ -51,25 +51,11 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">代表论文</a>
-      </h2>
-      {% include selected_papers.liquid %}
-    {% endif %}
+    <!-- 学术论文（从 BibTeX 生成）-->
+    <h2>学术论文</h2>
+    {% bibliography --file papers.bib %}
 
-    <!-- Social - 已禁用 -->
-    {% comment %}
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
-    {% endcomment %}
-
+    <!-- 社交图标已完全移除 -->
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
