@@ -37,3 +37,26 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+
+@use "font-awesome/fontawesome";
+@use "font-awesome/brands";
+@use "font-awesome/solid";
+@use "font-awesome/regular";
+
+// 移除论文列表的数字编号
+.bibliography {
+  padding-left: 0 !important;
+  list-style: none !important;
+}
+
+.bibliography li {
+  list-style: none !important;
+  margin-bottom: 1.5rem;
+  padding-left: 0;
+}
+
+.bibliography li::marker {
+  display: none !important;
+  content: "" !important;
+}
