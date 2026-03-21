@@ -35,10 +35,10 @@ My research lies at the intersection of numerical analysis and scientific comput
 
 ## Research Interests
 
-- **Topology optimization** - Design of optimal material layouts within a given region
-- **Saddle point problems** - Numerical methods for constrained optimization
-- **Variable step approximation of convolution quadrature** - Time-stepping methods for evolutionary equations
-- **Numerical inversion of Laplace transform** - Stable and accurate algorithms for inverse problems
+- **Constrained optimization**
+- - **Variable step approximation of convolution quadrature** 
+- **Saddle point problems** 
+- **Numerical inversion of Laplace transform** 
 
 ## Academic Positions
 
