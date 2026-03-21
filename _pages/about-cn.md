@@ -8,6 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
+  more_info: >
+    <p>数学与统计学院</p>
+    <p>广东工业大学</p>
+    <p>电子邮箱: jingguo@gdut.edu.cn</p>
 
 selected_papers: false
 social: false
@@ -28,7 +32,6 @@ latest_posts:
 ### 教育背景
 博士（湖南师范大学）  
 硕士（湖南师范大学）  
-
 
 ### 研究领域
 带约束优化；卷积求积的变步长逼近方法；鞍点问题；拉普拉斯变换数值反演
