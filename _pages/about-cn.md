@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>数学与统计学院</p>
     <p>广东工业大学</p>
+    <p>数学与统计学院</p>
     <p>电子邮箱: jingguo@gdut.edu.cn</p>
 
 selected_papers: false
