@@ -14,7 +14,7 @@ footer_text: >
   © 2025 Jing Guo. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: numerical analysis, topology optimization, convolution quadrature, applied mathematics, Guangdong University of Technology
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 📐 # 改成了数学相关的图标
+icon: 🔣 # 改成了数学相关的图标
 
 url: https://jingguo-math.github.io # 改为你的实际域名
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
