@@ -64,7 +64,8 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <!-- Social -->
+    <!-- Social - 已禁用 -->
+    {% comment %}
     {% if page.social %}
       <div class="social">
         <div class="contact-icons">{% social_links %}</div>
@@ -72,6 +73,7 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
+    {% endcomment %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
